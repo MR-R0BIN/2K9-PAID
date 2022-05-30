@@ -20,7 +20,7 @@ git clone https://github.com/MR-R0BIN/2K9-PAID
 
 cd 2K9-PAID
 
-python 2K9.py
+python 2K9-PAID.py
 
 
 # LOGIN PROVE
